@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  color: blue;
+ 
+}
+
+h2{
+  color: red
+}
+
+h3{
+  color: brown;
+}
+
+span{
+  color: black;
+}
+
+.btn{
+  margin: 10px;
+}
+
+.trivia{
+  margin: 10px;
+}
